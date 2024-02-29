@@ -50,8 +50,6 @@ GitHub: [Aoliva96](https://github.com/Aoliva96)
 
 [Link to the GitHub repo for this project](https://github.com/Aoliva96/readme-generator)
 
-[Link to the deployed project on GitPages](N/A)
-
 See below for a screenshot/demo of the project (version 1.0):
 
-[![Screenshot/demo of project](https://app.screencastify.com/v3/watch/y52Kip27IpknG328i0jW)](./assets/media/project-demo.png)
+[![Screenshot/demo of project](./assets/media/project-demo.png)](https://app.screencastify.com/v3/watch/y52Kip27IpknG328i0jW)
