@@ -33,11 +33,9 @@ const questions = [
       "Which license does this project utilize? (If none-of-the-above, manually input into .md file)",
     choices: [
       "MIT",
-      "Mozilla 2.0",
-      "ISC",
-      "Eclipse 1.0",
       "Apache 2.0",
-      "Boost 1.0",
+      "Mozilla Public 2.0",
+      "ISC",
       "None of the above",
     ],
     default: "MIT",
@@ -76,7 +74,13 @@ const questions = [
     name: "screenshot",
     type: "input",
     message:
-      "Please input file path to a recent screenshot of the project (Example: assets/images/screenshot.png):",
+      "Please input file path to a recent screenshot or demo of the project (example: assets/media/screenshot.png):",
+  },
+  {
+    name: "version",
+    type: "input",
+    message:
+      "Please input current public release version (example: 1.0, 2.4.1, etc):",
   },
 ];
 
